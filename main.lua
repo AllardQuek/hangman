@@ -236,5 +236,3 @@ function drawWord()
     end
 end
 
-
-
