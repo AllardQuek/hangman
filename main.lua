@@ -235,4 +235,3 @@ function drawWord()
         x = x + 32
     end
 end
-
