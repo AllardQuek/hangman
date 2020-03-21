@@ -1,8 +1,8 @@
 --[[ 
     Hangman
 
-    Author: Allard Quek
-    allardqjy@gmail.com
+    Author: Colton Ogden
+    cogden@cs50.harvard.edu
 ]]
 
 -- defining variables
